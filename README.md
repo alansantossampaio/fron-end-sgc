@@ -1,2 +1,2 @@
-# fron-end-sgc
+# front-end-sgc
 Front do projeto Condominial
